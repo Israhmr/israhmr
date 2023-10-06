@@ -9,7 +9,7 @@
 [![Academia]( 	https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://ufmg.academia.edu/OliveiraIsrael)
 [![Web of Science](https://img.shields.io/badge/web_of_science-000000?style=for-the-badge&logo=iterm2&logoColor=white)](https://www.webofscience.com/wos/author/record/AAB-1748-2019)
 
-![Israhmr's GitHub stats](https://github-readme-stats.vercel.app/api?username=israhmr&show_icons=true&theme=onedark)
+![Israhmr's GitHub stats](https://github-readme-stats.vercel.app/api?username=israhmr&show_icons=true&theme=radical)
 
 ### Linguagens
 
