@@ -11,11 +11,15 @@
 
 ![Israhmr's GitHub stats](https://github-readme-stats.vercel.app/api?username=israhmr&show_icons=true&theme=radical)
 
-### Linguagens
+### Inteligências
 
 ![GitLab](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![GitLab](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=yellow)
 ![GitLab](https://img.shields.io/badge/Java-CC342D?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GitLab](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![GNU Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
+[![Mozilla Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/)
+[![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://pt-br.libreoffice.org/)
+[![GNU Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 
 O conhecimento liberta, mas confira as fontes antes de se libertar.
